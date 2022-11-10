@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hey 👋, I'm Caio</h1>
 <h3 align="center">Hey there, my name is Caio, i'm a 18 years old full-stack web development student from Brazil.</h3>
 <text align="center">i've always been a technology lover, i was a video editor, so, I've used many different programs and technologies, I liked it a lot, but i found my real vocation when i coded my first project in Python, the feeling of completing a challenge, and resolve problems is so satisfying, after that i started to study coding a lot and joined in Trybe, you can find my personal projects in my portfolio!(Link Below).</text>
