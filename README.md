@@ -1,5 +1,9 @@
-<h1 align="center">Hey 👋, I'm Caio</h1>
-<h3 align="center">Hey there, my name is Caio, i'm a 19 years old full-stack web development student from Brazil.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B95F17&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B95F17&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/caiobacode">
@@ -19,9 +23,13 @@
   <img align="center" alt="Caio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
   
-## Portfolio
+<div align="center">  
+<a href = "mailto:caioodsf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=c71610" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-oliveira-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://caiobacode.github.io/portfolio" target="_blank"><img height="28rem" src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&color=3E2D28" target="_blank"></a>
+ </div>
   
-https://caiobacode.github.io/portfolio/
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B95F17&height=120&section=footer"/>
 <!--
 **caiobacode/caiobacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
