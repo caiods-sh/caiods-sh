@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B95F17&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+![sla](./assets/portfolio2.gif)
 
 <div style='display: flex;'>
   <div style='width: 50%; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly; border: solid black 1px'>  
