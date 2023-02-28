@@ -12,13 +12,13 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
- <div align='center'>  
-   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img width='200px' style='border-radius: 5px' src="./assets/portfolio2.gif" target="_blank"></a>
+ # Projects
+
+ <div>  
+   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img height='30px' style='border-radius: 5px' src="./assets/portfolio.png" target="_blank"></a>
+   <a href="https://github.com/caiobacode?tab=repositories" target="_blank"><img height='30px' src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" 
+    target="_blank"></a>
  </div>
  
 <br>
