@@ -8,17 +8,12 @@
 
 <img align='right' width='50%' src='./assets/github.gif'>
 
-<br>
-<br>
-<br>
-<br>
-
  # Projects
 
  <div>  
-   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img height='30px' style='border-radius: 5px' src="./assets/portfolio.png" target="_blank"></a>
-   <a href="https://github.com/caiobacode?tab=repositories" target="_blank"><img height='30px' src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" 
-    target="_blank"></a>
+ <p>You can access my main projects directly in my portfolio</p>
+ 
+   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img height='50px' style='border-radius: 5px' src="./assets/portfolio2.gif" target="_blank"></a>
  </div>
  
 <br>
