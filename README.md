@@ -5,7 +5,7 @@
 
 
 <div style='display: flex;'>
-  <div style='width: 50%; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly'>  
+  <div style='width: 50%; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly; border: solid black 1px'>  
    <a href="https://caiobacode.github.io/portfolio" target="_blank"><img width='200px' style='border-radius: 5px' src="./assets/portfolio.png" target="_blank"></a>
   <div>
   <h3 style='margin-left: 50px'>Contact</h3>
