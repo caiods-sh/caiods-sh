@@ -19,17 +19,40 @@
  </div>
   
   
-## Main skills:
+## Hard Skills
+  
+* Front-End
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=black)&nbsp;
+![Mui Material](https://img.shields.io/badge/-Mui%20Material-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+  
+* Back-End
+  
+> ![Node.js](https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-06AFEF?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
+  
+* Tests
+  
+> ![RTL](https://img.shields.io/badge/Testing%20library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Mocha](https://img.shields.io/badge/MOCHA-6D4A31?style=for-the-badge&logo=mocha&logoColor=white)&nbsp; 
+![Chai](https://img.shields.io/badge/chai-974942?style=for-the-badge&logo=chai&logoColor=white)&nbsp;
+  
+* DevOps
+> ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0071C6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B95F17&height=120&section=footer"/>
 <!--
 **caiobacode/caiobacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
-
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobacode&layout=compact&langs_count=7&theme=darcula"/>
