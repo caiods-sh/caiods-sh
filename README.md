@@ -6,14 +6,14 @@
 
 <div style='display: flex;'>
   <div style='width: 50%; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly'>  
-   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img width='200px' style='border-radius: 5px' src="https://im3.ezgif.com/tmp/ezgif-3-161b993d38.gif" target="_blank"></a>
+   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img width='200px' style='border-radius: 5px' src="./assets/portfolio.png" target="_blank"></a>
   <div>
   <h3 style='margin-left: 50px'>Contact</h3>
 <a href = "mailto:caioodsf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=c71610" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio-oliveira-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div> 
  </div>
-  <img style='width: 50%; border-radius: 10px' src='https://im5.ezgif.com/tmp/ezgif-5-d24d495df4.gif'>
+  <img style='width: 50%; border-radius: 10px' src='./assets/github.gif'>
 </div>
 
 <br>
