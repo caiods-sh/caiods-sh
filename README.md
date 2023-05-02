@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=53351E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=53351E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
