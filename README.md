@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b2f0b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2D28&height=120&section=header"/>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b2f0b&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B95F17&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -69,7 +69,7 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0071C6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b2f0b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E2D28&height=120&section=footer"/>
 <!--
 **caiobacode/caiobacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
