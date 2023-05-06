@@ -54,6 +54,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-06AFEF?style=for-the-badge&logo=sequelize&logoColor=white)&nbsp;
+[![mongo][mongo]][mongo-url]
   
 * Tests
   
@@ -70,6 +71,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0071C6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53351E&height=120&section=footer"/>
+ 
+[mongo]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
+[mongo-url]: https://www.mongodb.com/
+ 
 <!--
 **caiobacode/caiobacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
