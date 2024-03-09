@@ -4,40 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=53351E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋,+My+name+is+Caio+Oliveira;I'm+19+years+old;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-
-<img align='right' width='50%' src='./assets/github.gif'>
-
- # Projects
-
- <div>  
- <p>You can access my main projects directly in my portfolio</p>
- 
-   <a href="https://caiobacode.github.io/portfolio" target="_blank"><img height='50px' style='border-radius: 5px' src="./assets/portfolio2.gif" target="_blank"></a>
- </div>
- 
-<br>
- 
  # Contact
  
  <div>
 <a href = "mailto:caioodsf@gmail.com"> <img height='40px' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=c71610" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio-oliveira-de-sousa/" target="_blank"><img height='40px' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div> 
-
-<div align="center">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://github.com/caiobacode">
-  <br>
-  <img height='180px' src="https://streak-stats.demolab.com/?user=caiobacode&theme=darcula"/>
-  <img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobacode&layout=compact&langs_count=7&theme=darcula"/>
-</div>
-<br>
   
 # Hard Skills
  
